@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" print the sum, subtraction, multiplication and division of 10 and 5"""
+
 if  __name__ == "__main__":
 from calculator_1 import add,sub,mul,div
     a = 10
